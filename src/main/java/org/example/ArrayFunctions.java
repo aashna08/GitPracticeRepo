@@ -1,2 +1,4 @@
-package org.example;public class ArrayFunctions {
+package org.example;
+
+public class ArrayFunctions {
 }
