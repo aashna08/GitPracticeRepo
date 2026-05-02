@@ -4,6 +4,7 @@ public class StringFunctions {
 
     public void countOccurence(String str)
     {
+        //Changes made for dev branch
         String st=str.toLowerCase();
         HashMap<Character,Integer> hm=new HashMap<>();
         for (int i=0;i<st.length();i++)
